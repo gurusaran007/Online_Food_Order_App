@@ -1,0 +1,897 @@
+{
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "47032441",
+                                                            "name": "Veggie Feast",
+                                                            "category": "Veg Pizza",
+                                                            "description": "Serves 1 | Herbed onion and green capsicum, juicy sweet corn & 100% mozzarella cheese with flavourful pan sauce (PAN Per/Med-269 Kcal/100g | TnC-274 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/17/ee9985e4-828b-4a0e-b99b-656442e80877_7492ef8f-5b57-4ca4-86e6-4a8981c38510.jpg_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "variants": {},
+                                                            "variantsV2": {
+                                                                "variantGroups": [
+                                                                    {
+                                                                        "groupId": "46427889",
+                                                                        "name": "Choose your Crust",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Pan",
+                                                                                "default": 1,
+                                                                                "id": "147136543",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1,
+                                                                                "dependantVariation": {
+                                                                                    "groupId": "46427890",
+                                                                                    "variationId": "147136549"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "name": "Stuffed Crust - Maxx",
+                                                                                "id": "147136545",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1,
+                                                                                "dependantVariation": {
+                                                                                    "groupId": "46427890",
+                                                                                    "variationId": "147136551"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "name": "Thin n Crispy",
+                                                                                "id": "147136547",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1,
+                                                                                "dependantVariation": {
+                                                                                    "groupId": "46427890",
+                                                                                    "variationId": "147136552"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "groupId": "46427890",
+                                                                        "name": "Choose Size",
+                                                                        "variations": [
+                                                                            {
+                                                                                "name": "Personal",
+                                                                                "price": 259,
+                                                                                "default": 1,
+                                                                                "id": "147136549",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Personal",
+                                                                                "price": 334,
+                                                                                "id": "147136551",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Large.",
+                                                                                "price": 649,
+                                                                                "id": "147136552",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Medium",
+                                                                                "price": 489,
+                                                                                "id": "147136553",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            },
+                                                                            {
+                                                                                "name": "Medium",
+                                                                                "price": 588,
+                                                                                "id": "147136554",
+                                                                                "inStock": 1,
+                                                                                "isVeg": 1,
+                                                                                "isEnabled": 1
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "pricingModels": [
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "46427889",
+                                                                                "variationId": "147136543"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "46427890",
+                                                                                "variationId": "147136549"
+                                                                            }
+                                                                        ],
+                                                                        "price": 25900,
+                                                                        "addonCombinations": [
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387907"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "115289269"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387908"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387911"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387906"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "135557727"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387915"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387917"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387918"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387919"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387920"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387921"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387922"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387923"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387924"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077636",
+                                                                                "addonId": "101387912"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "46427889",
+                                                                                "variationId": "147136543"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "46427890",
+                                                                                "variationId": "147136553"
+                                                                            }
+                                                                        ],
+                                                                        "price": 48900,
+                                                                        "addonCombinations": [
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387907"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "115289269"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387908"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387911"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387906"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077638",
+                                                                                "addonId": "117617190"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "135557728"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387933"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387935"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387936"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387937"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387938"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387939"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387940"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387941"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387942"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387943"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387944"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "46427889",
+                                                                                "variationId": "147136545"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "46427890",
+                                                                                "variationId": "147136551"
+                                                                            }
+                                                                        ],
+                                                                        "price": 33400,
+                                                                        "addonCombinations": [
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387907"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "115289269"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387908"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387911"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387906"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "135557727"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387915"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387917"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387918"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387919"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387920"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387921"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387922"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387923"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077644",
+                                                                                "addonId": "101387924"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077636",
+                                                                                "addonId": "101387912"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "46427889",
+                                                                                "variationId": "147136545"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "46427890",
+                                                                                "variationId": "147136554"
+                                                                            }
+                                                                        ],
+                                                                        "price": 58800,
+                                                                        "addonCombinations": [
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387907"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "115289269"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387908"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387911"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387906"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077638",
+                                                                                "addonId": "117617190"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "135557728"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387933"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387935"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387936"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387937"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387938"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387939"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387940"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387941"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387942"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387943"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077648",
+                                                                                "addonId": "101387944"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "variations": [
+                                                                            {
+                                                                                "groupId": "46427889",
+                                                                                "variationId": "147136547"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "46427890",
+                                                                                "variationId": "147136552"
+                                                                            }
+                                                                        ],
+                                                                        "price": 64900,
+                                                                        "addonCombinations": [
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387907"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "115289269"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387908"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387911"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077646",
+                                                                                "addonId": "101387906"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077640",
+                                                                                "addonId": "114794673"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "135557724"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794672"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794673"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794674"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794675"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794671"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794683"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794684"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794679"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794680"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794681"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794682"
+                                                                            },
+                                                                            {
+                                                                                "groupId": "169077642",
+                                                                                "addonId": "114794677"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "addons": [
+                                                                {
+                                                                    "groupId": "169077636",
+                                                                    "groupName": "Extra Cheese Topping",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "101387912",
+                                                                            "name": "Cheese",
+                                                                            "price": 6500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "169077640",
+                                                                    "groupName": "Extra-Cheese Topping",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "114794673",
+                                                                            "name": "Cheese",
+                                                                            "price": 10900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 1,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "169077642",
+                                                                    "groupName": "Add More Veg Toppings TNC",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "114794672",
+                                                                            "name": "Black Olives",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794673",
+                                                                            "name": "Cheese",
+                                                                            "price": 10900,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794674",
+                                                                            "name": "Capsicum",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794675",
+                                                                            "name": "Herbed Veggies",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794671",
+                                                                            "name": "Jalapeno",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794683",
+                                                                            "name": "Paneer",
+                                                                            "price": 8500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794684",
+                                                                            "name": "Mushroom",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794679",
+                                                                            "name": "Onion",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794680",
+                                                                            "name": "Red Capsicum",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794681",
+                                                                            "name": "Red Paprika",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794682",
+                                                                            "name": "Sweet Corn",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "114794677",
+                                                                            "name": "Tomato",
+                                                                            "price": 8000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "135557724",
+                                                                            "name": "Marinated Paneer",
+                                                                            "price": 8500,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "169077644",
+                                                                    "groupName": "Add More Veg Toppings Personal",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "101387915",
+                                                                            "name": "Capsicum",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387917",
+                                                                            "name": "Jalapeno",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387918",
+                                                                            "name": "Mushroom",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387919",
+                                                                            "name": "Onion",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387920",
+                                                                            "name": "Paneer",
+                                                                            "price": 5500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387921",
+                                                                            "name": "Red Paprika",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387922",
+                                                                            "name": "Red Capsicum",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387923",
+                                                                            "name": "Sweet Corn",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387924",
+                                                                            "name": "Tomato",
+                                                                            "price": 4500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "135557727",
+                                                                            "name": "Marinated Paneer",
+                                                                            "price": 5500,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": -1
+                                                                },
+                                                                {
+                                                                    "groupId": "169077648",
+                                                                    "groupName": "Add More Veg Toppings",
+                                                                    "choices": [
+                                                                        {
+                                                                            "id": "101387933",
+                                                                            "name": "Black Olives",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387935",
+                                                                            "name": "Capsicum",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387936",
+                                                                            "name": "Herbed Veggies",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387937",
+                                                                            "name": "Jalapeno",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387938",
+                                                                            "name": "Mushroom",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387939",
+                                                                            "name": "Onion",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387940",
+                                                                            "name": "Paneer",
+                                                                            "price": 7500,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387941",
+                                                                            "name": "Red Paprika",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387942",
+                                                                            "name": "Red Capsicum",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387943",
+                                                                            "name": "Sweet Corn",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "101387944",
+                                                                            "name": "Tomato",
+                                                                            "price": 7000,
+                                                                            "inStock": 1,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        },
+                                                                        {
+                                                                            "id": "135557728",
+                                                                            "name": "Marinated Paneer",
+                                                                            "price": 7500,
+                                                                            "isVeg": 1,
+                                                                            "isEnabled": 1
+                                                                        }
+                                                                    ],
+                                                                    "maxAddons": 2,
+                                                                    "maxFreeAddons": -1
+                                                                }
+                                                            ],
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "defaultPrice": 25900,
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "228 ratings",
+                                                                    "ratingCountV2": "228"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            },
+                                                            "itemPriceStrikeOff": true
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }

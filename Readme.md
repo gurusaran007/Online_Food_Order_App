@@ -3,7 +3,6 @@
          -Integeration Testing
          -End to End Testing(e2e)
 
- we will focus first 2 
 
  # Setting up testing in react application
     - Install react testing library
